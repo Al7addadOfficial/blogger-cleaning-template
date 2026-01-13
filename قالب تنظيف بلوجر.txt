@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<b:skin><![CDATA[
+/*
+ * قالب التنظيف المحسن
+ * للاستخدام قبل تركيب أي قالب جديد.
+ * -----------------------------------------------
+ * Designer URL : http://www.al7addad.com/
+ * year : 2026
+ * -----------------------------------------------
+ */
+]]></b:skin>
+</head>
+<body>
+<b:section id='main'/>
+</body>
+</html>
+    
